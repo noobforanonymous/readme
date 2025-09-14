@@ -10,9 +10,5 @@ I’m currently working through:
 - TryHackMe & Hack The Box Labs
 - PWK & OSCP Lab preparation (daily logs here)
 
-## 📓 Writeups & Labs
-- [Bandit Writeups](https://github.com/regaan-sec/overthewire-bandit)
-- [TryHackMe Progress](https://github.com/regaan-sec/tryhackme-writeups)
-
 ## 📫 Contact Me
 - [Medium Blog](https://medium.com/@regaan-infosec)
